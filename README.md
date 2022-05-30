@@ -2,7 +2,7 @@
 Methods of Programming Final Project
 # Member:
 
-Yunus Emre Karatash Mat19
+## Yunus Emre Karatash Mat19
 
 Snake is the generic name for video games with a concept in which the player guides a line that runs along. The player controls a long, slender creature resembling a snake, usually along a wall, collecting food, resembling a snake with its own tail and avoiding collision with the edges of the playground.
 
